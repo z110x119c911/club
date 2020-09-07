@@ -7586,10 +7586,6 @@ h1, h3 {
     height: 30vh;
     overflow: hidden; } }
 
-@media (max-width: 768px) {
-  .wtns_shop, .ACE {
-    padding-top: 0px !important; } }
-
 .solomo > a, .wtns_shop > a, .ACE > a {
   text-decoration: none; }
 
